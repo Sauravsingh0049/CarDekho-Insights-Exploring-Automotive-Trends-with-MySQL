@@ -9,7 +9,6 @@ A historical dataset with 8149 rows and 13 columns containing data from year 199
 ![Screenshot (42)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/3de69e53-8283-4808-9541-7d0666bfc381)
 
 ## Steps of importing data into MySQL
-
 ![Screenshot (58)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/847986c3-0d39-4385-8caf-f2009a017f8b)
 ![Screenshot (59)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/2378adee-61f7-4fb5-aecc-7cb90b0d3c7d)
 Then select the data and import into the MySQl Software.
@@ -17,7 +16,7 @@ Then select the data and import into the MySQl Software.
 ## Analyses derived from the dataset
 
 - Read Cars data
-![Screenshot (43)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/41b9ec00-ab09-4acf-8db8-50bff4934b5a)
+- ![Screenshot (43)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/41b9ec00-ab09-4acf-8db8-50bff4934b5a)
 
 - The manager asked the employee How many cars will be available in 2023?
 ![Screenshot (45)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/8f7d7497-f4af-44b1-bc00-6e08f0727067)
