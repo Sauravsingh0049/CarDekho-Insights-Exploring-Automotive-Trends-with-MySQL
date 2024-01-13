@@ -16,10 +16,10 @@ Then select the data and import into the MySQl Software.
 ## Analyses derived from the dataset
 
 - Read Cars data
-- ![Screenshot (43)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/41b9ec00-ab09-4acf-8db8-50bff4934b5a)
+![Screenshot (43)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/a5789e4a-4c5a-4fc5-b1b5-c80262731c1a)
 
 - The manager asked the employee How many cars will be available in 2023?
-![Screenshot (45)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/8f7d7497-f4af-44b1-bc00-6e08f0727067)
+![Screenshot (45)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/fb71d566-d396-4b12-b0bb-d9eee8b9eb0e)
 
 -the manager asked the employee how many cars is available in 2020,2021,2022?
 ![Screenshot (46)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/664324c4-3fe7-497d-8c2d-0fbb27447962)
