@@ -4,13 +4,14 @@
 Car dekho company wants to create an analysis report for 2024 and to gain some potential insight. So that, they can understand their customers and grow more sales in 2023
 
 ## Dataset Used
-A historical dataset with 8149 rows and 13 columns containing data from year 1991 to 2023. Data is stored in a single table.
+A historical dataset with 8149 rows and 13 columns containing data from the years 1991 to 2023. Data is extracted from Kaggle website and it is stored in a single table.
+
 ![Screenshot (42)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/3de69e53-8283-4808-9541-7d0666bfc381)
 
 ## Steps of importing data into MySQL
 ![Screenshot (58)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/35e5bc23-7206-4002-b3ed-469374701fb8)
 ![Screenshot (59)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/c034c4b5-ef3d-40f6-a0e3-6543e584db7e)
-Then select the data and import into the MySQl Software.
+Then select the data and import it into the MySQl Software.
 
 ## Analyses derived from the dataset
 
@@ -22,19 +23,19 @@ Then select the data and import into the MySQl Software.
 - 
 ![Screenshot (45)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/fb71d566-d396-4b12-b0bb-d9eee8b9eb0e)
 
--the manager asked the employee how many cars is available in 2020,2021,2022?
+-the manager asked the employee how many cars would be available in 2020,2021,2022.
 
 ![Screenshot (46)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/257006c5-7c08-4033-9d8b-f7a71f765383)
 
--Client asked me to print the total cars by year
+The client asked me to print the total cars by year
 
 ![Screenshot (47)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/601376d7-6e9e-4fab-b67b-f7e34b89f8c3)
 
--client asked to car dealer agent how many diesel car will be there 2020
+-the client asked to car dealer agent how many diesel cars would be there in 2020
 
 ![Screenshot (48)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/65f48f8c-71e9-4d04-a264-28413550f727)
 
-- Client requested a car dealer agent how many petrol cars will there be in 2020?
+The client asked a car dealer agent how many petrol cars there be in 2020.
 - 
 ![Screenshot (49)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/58b0242d-8a7f-4cb7-bf9c-d80c93702921)
 
@@ -44,7 +45,7 @@ Then select the data and import into the MySQl Software.
 ![Screenshot (51)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/8d862833-1cab-480e-875c-67068870e5cd)
 ![Screenshot (52)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/0bd4fb6b-e18e-43fc-841b-58f4e10d55ee)
 
--Manager said there were more than 100 cars in a given year, which year had more than 100 cars?
+The manager said there were more than 100 cars in a given year, which year had more than 100 cars?
 
 ![Screenshot (53)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/c5a3c1d6-64fb-4c6b-b59e-eba709db6a6b)
 
@@ -52,7 +53,7 @@ Then select the data and import into the MySQl Software.
 
 ![Screenshot (54)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/1724868c-ec87-4082-9060-65b72fa85fae)
 
--The manager said to the employee All cars detail between 2015 to 2023 we need complete list 
+-The manager said to the employee All car details between 2015 to 2023 we need a complete list 
 
 ![Screenshot (56)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/5bcd4624-02f9-441c-86a1-15198b132ca2)
 
@@ -63,7 +64,7 @@ https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/e26994
 ## Tools Used
 ![mysql](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/228966d3-5643-4857-9028-3f5bc4d6accf)
 
-MySQL is the world’s most popular open source database. According to DB-Engines, MySQL ranks as the second-most-popular database, behind Oracle Database. Since MySQL is open source, it includes numerous features developed in close cooperation with users over more than 25 years. So it’s very likely that your favorite application or programming language is supported by MySQL Database.
+MySQL is the world’s most popular open-source database. According to DB-Engines, MySQL ranks as the second-most-popular database, behind Oracle Database. Since MySQL is open source, it includes numerous features developed in close cooperation with users over more than 25 years. So it’s very likely that your favorite application or programming language is supported by MySQL Database.
 
 ![Screenshot (57)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/823aecde-6bc8-4542-bc71-d66806f8b1da)
 
