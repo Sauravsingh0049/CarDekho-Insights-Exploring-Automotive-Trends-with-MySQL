@@ -15,6 +15,7 @@ Then select the data and import into the MySQl Software.
 ## Analyses derived from the dataset
 
 - Read Cars data
+
 ![Screenshot (43)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/a5789e4a-4c5a-4fc5-b1b5-c80262731c1a)
 
 - The manager asked the employee How many cars will be available in 2023?
