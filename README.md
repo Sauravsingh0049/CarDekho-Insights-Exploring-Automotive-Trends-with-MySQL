@@ -6,8 +6,8 @@ Car dekho company wants to create an analysis report for 2024 and to gain some p
 
 ## Dataset Used
 A historical dataset with 8149 rows and 13 columns containing data from year 1991 to 2023. Data is stored in a single table.
+![Screenshot (42)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/3de69e53-8283-4808-9541-7d0666bfc381)
 
-![Screenshot (42)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/1309bae8-849f-4473-89aa-6b2065bffcd5)
 ## Steps of importing data into MySQL
 
 ![Screenshot (58)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/847986c3-0d39-4385-8caf-f2009a017f8b)
