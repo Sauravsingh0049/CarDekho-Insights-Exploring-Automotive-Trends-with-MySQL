@@ -9,8 +9,8 @@ A historical dataset with 8149 rows and 13 columns containing data from year 199
 ![Screenshot (42)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/3de69e53-8283-4808-9541-7d0666bfc381)
 
 ## Steps of importing data into MySQL
-![Screenshot (58)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/847986c3-0d39-4385-8caf-f2009a017f8b)
-![Screenshot (59)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/2378adee-61f7-4fb5-aecc-7cb90b0d3c7d)
+![Screenshot (58)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/35e5bc23-7206-4002-b3ed-469374701fb8)
+![Screenshot (59)](https://github.com/irawatsaurav/Data-Analysis-with-MySQL/assets/155745836/c034c4b5-ef3d-40f6-a0e3-6543e584db7e)
 Then select the data and import into the MySQl Software.
 
 ## Analyses derived from the dataset
