@@ -1,4 +1,4 @@
-# CardDekho Insights- Exploring Automotive Trends with MySQL
+# CarDekho Insights- Exploring Automotive Trends with MySQL
 
 ## Objectives
 Car dekho company wants to create an analysis report for 2024 and to gain some potential insight. So that, they can understand their customers and grow more sales in 2023
